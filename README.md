@@ -43,5 +43,8 @@ This project simulates **elastic collisions** between two objects of different m
 
 ---
 ## 📺 Previev
+<img width="889" height="620" alt="prev" src="https://github.com/Jan-Malinowski/collision-simulator/blob/main/preview.gif" />
+
 <img width="889" height="620" alt="prev" src="https://github.com/user-attachments/assets/939808e0-ec1c-4e8c-980c-91012ee16a53" />
+
 
